@@ -2,9 +2,9 @@ import UIKit
 
 var str = "Hello, playground"
 
-var myFirstVariable:String
+//var myFirstVariable: String
 
-myFirstVariable =  "First string, eskitit jk thats cringe"
+myFirstVariable = "First string"
 
 //Delcare and assign variable in single line of code
 var mySecondVariable = "2 strings copy teacher"
@@ -24,3 +24,9 @@ var Zao = "And another one"
 var Khalid = Lykos + Nightowl + Zao
 
 print(Khalid)
+
+//Assignment #2 True or False
+
+var appState = false
+
+print(appState)
